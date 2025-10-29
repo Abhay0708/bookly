@@ -1,0 +1,10 @@
+Core FastAPI Dependencies
+1. FastAPI Framework
+bash
+pip install "fastapi[standard]"
+Modern Python web framework
+
+Includes automatic API documentation
+
+Built-in data validation
+===========================================================================================================================
